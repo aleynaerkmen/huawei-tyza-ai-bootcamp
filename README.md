@@ -21,6 +21,4 @@ Bu repository, **Huawei Turkey AI Academy** bünyesinde Kaan Can Yılmaz eğitme
 * **Görselleştirme:** Matplotlib, Seaborn
 * **Makine Öğrenmesi:** Scikit-Learn
 
----
 
-> *Not: Bu repodaki içerikler bootcamp süresince öğrendiklerimi pekiştirmek ve kendi gelişim sürecimi belgelemek amacıyla oluşturulmuştur.*
