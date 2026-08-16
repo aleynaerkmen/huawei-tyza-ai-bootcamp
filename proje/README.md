@@ -38,4 +38,4 @@ Verideki sınıf dengesizliği (%78 düzenli ödeyen, %22 geciktiren) göz önü
 
 ## 📝 Medium Yazısı
 Projenin detaylı analizine, iş çıkarımlarına ve görselleştirmelerine Medium üzerinden ulaşabilirsiniz:
-👉 
+👉 https://medium.com/@aleynaerkmen/makine-%C3%B6%C4%9Frenmesi-ile-kredi-kart%C4%B1-temerr%C3%BCt-default-tahmini-6f77641ce0ab
